@@ -1,1 +1,0 @@
-print "God is good"
