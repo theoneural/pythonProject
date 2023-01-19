@@ -1,1 +1,9 @@
-print ("God is good")
+def print_hi(name):
+    # This will write the name to the screen
+    print(f'Hi, {name}')  # 
+
+
+# This is the output from the python interpreter
+if __name__ == '__main__':
+    print_hi('theoneural')
+
